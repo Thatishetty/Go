@@ -33,16 +33,14 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/ticket-booking.git
+git clone https://github.com/Thatishetty/Go.git
 Navigate to the project directory:
 
-bash
-Copy
-Edit
-cd ticket-booking
+bash :
+
+cd Go
 Run the application:
 
-bash
-Copy
-Edit
+bash :
+
 go run main.go
